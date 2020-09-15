@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textoLogin">#4C4C4C</color>
+    <color name="loginEmailSenha">#606060</color>
+    <color name="background">#E6E6E6</color>
+    <color name="rectangleBorda">#D3D3D3</color>
+</resources>
