@@ -3,8 +3,12 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
-    <color name="textoLogin">#4C4C4C</color>
-    <color name="loginEmailSenha">#606060</color>
-    <color name="background">#E6E6E6</color>
+    <color name="textLogin">#4C4C4C</color>
+    <color name="loginEmailSenha">#959595</color>
+    <color name="background">#EDEDED</color>
     <color name="rectangleBorda">#D3D3D3</color>
+    <color name="textFaceTwit">#fff</color>
+    <color name="corFacebook">#DF253DBC</color>
+    <color name="corTwitter">#DC00BCD4</color>
+    <color name="signUpNow">#E4DF3A2D</color>
 </resources>
